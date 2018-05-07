@@ -1,5 +1,16 @@
 # JSInterviewChallenge
+To run the code.
+1. download the project to local. UNZIP the file and open the extracted file and navigate to index.html ( ..\Downloads\JSInterviewChallenge-master\JSInterviewChallenge-master\JSInterviewChallenge\JSInterviewChallenge\src\main\java\JSInterviewChallenge\JSInterviewChallenge)
+2.Double click on index.html
 
+Another way to open the file:
+1. download the project to local.
+2. import to eclipse
+3. right click on index.html -> open with-> web browser
+4. a web- browser will open in eclipse. copy the url and paste it in chrome or any other web browser.
+
+
+USER-STORY: 
 Welcome to the JS code challenge. Below is a set of instructions that you must attempt to complete within 3 days (please return on Monday, May 7). Good luck :)
 
 Your challenge, should you choose to accept it, is to create a web application using any framework you choose. It must be a JavaScript framework and it must follow the user story below.
