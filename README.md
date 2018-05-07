@@ -1,7 +1,6 @@
 # JSInterviewChallenge
 To run the code.
-1. download the project to local. UNZIP the file and open the extracted file and navigate to index.html ( ..\Downloads\JSInterviewChallenge-master\JSInterviewChallenge-master\JSInterviewChallenge\JSInterviewChallenge\src\main\java\JSInterviewChallenge\JSInterviewChallenge)
-
+1. download the project to local. UNZIP the file and open the extracted file and navigate to index.html (..\Downloads\JSInterviewChallenge-master\JSInterviewChallenge-master\JSInterviewChallenge\JSInterviewChallenge\src\main\java\JSInterviewChallenge\JSInterviewChallenge)
 2.Double click on index.html
 
 Another way to open the file:
