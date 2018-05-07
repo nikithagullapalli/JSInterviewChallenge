@@ -1,0 +1,37 @@
+@charset "ISO-8859-1";
+<style>
+
+#wrapper
+{
+ text-align:center;
+ margin:0 auto;
+ padding:0px;
+ width:995px;
+}
+
+body {
+    background-image: url("img_tree.jpg");
+    background-repeat: no-repeat;
+}
+
+th {
+	background-color: rgb(179, 255, 0)
+}
+
+tr, td {
+	background-color: rgb(255, 250, 71)
+}
+
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+th, td {
+	padding: 5px;
+}
+
+heading {
+	padding-left: 30%;
+}
+</style>
